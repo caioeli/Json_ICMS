@@ -1,0 +1,3649 @@
+// resultado 
+
+[
+  {
+    "origem": "AC",
+    "destino": "AC",
+    "ICMS": 17
+  },
+  {
+    "origem": "AC",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AC",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "AL",
+    "ICMS": 17
+  },
+  {
+    "origem": "AL",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AL",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "AM",
+    "ICMS": 18
+  },
+  {
+    "origem": "AM",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AM",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "AP",
+    "ICMS": 18
+  },
+  {
+    "origem": "AP",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "AP",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "BA",
+    "ICMS": 18
+  },
+  {
+    "origem": "BA",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "BA",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "CE",
+    "ICMS": 18
+  },
+  {
+    "origem": "CE",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "CE",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "DF",
+    "ICMS": 18
+  },
+  {
+    "origem": "DF",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "DF",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "ES",
+    "ICMS": 17
+  },
+  {
+    "origem": "ES",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "ES",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "GO",
+    "ICMS": 17
+  },
+  {
+    "origem": "GO",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "GO",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "MA",
+    "ICMS": 18
+  },
+  {
+    "origem": "MA",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MA",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "MG",
+    "ICMS": 18
+  },
+  {
+    "origem": "MG",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "MG",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MG",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "MS",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "MS",
+    "ICMS": 17
+  },
+  {
+    "origem": "MS",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MS",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "MT",
+    "ICMS": 17
+  },
+  {
+    "origem": "MT",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "MT",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "PA",
+    "ICMS": 17
+  },
+  {
+    "origem": "PA",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PA",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "PB",
+    "ICMS": 18
+  },
+  {
+    "origem": "PB",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PB",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "PE",
+    "ICMS": 18
+  },
+  {
+    "origem": "PE",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PE",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "PI",
+    "ICMS": 18
+  },
+  {
+    "origem": "PI",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PI",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "PR",
+    "ICMS": 18
+  },
+  {
+    "origem": "PR",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "PR",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "PR",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "RJ",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RJ",
+    "destino": "RJ",
+    "ICMS": 20
+  },
+  {
+    "origem": "RJ",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RJ",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RJ",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RJ",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RJ",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RN",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "RN",
+    "ICMS": 18
+  },
+  {
+    "origem": "RN",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RN",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "RO",
+    "ICMS": 17.5
+  },
+  {
+    "origem": "RO",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RO",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "RR",
+    "ICMS": 17
+  },
+  {
+    "origem": "RR",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RR",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "RS",
+    "ICMS": 18
+  },
+  {
+    "origem": "RS",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "RS",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "RS",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "SC",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "SC",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "SC",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "SC",
+    "destino": "SC",
+    "ICMS": 17
+  },
+  {
+    "origem": "SC",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SC",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "SC",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SE",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "SE",
+    "ICMS": 18
+  },
+  {
+    "origem": "SE",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "SE",
+    "destino": "TO",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "AC",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "AL",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "AM",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "AP",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "BA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "CE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "DF",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "ES",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "GO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "MA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "MS",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "MT",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "PA",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "PB",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "PE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "PI",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "RN",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "RO",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "RR",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "SP",
+    "destino": "SE",
+    "ICMS": 7
+  },
+  {
+    "origem": "SP",
+    "destino": "SP",
+    "ICMS": 18
+  },
+  {
+    "origem": "SP",
+    "destino": "TO",
+    "ICMS": 7
+  },
+  {
+    "origem": "TO",
+    "destino": "AC",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "AL",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "AM",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "AP",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "BA",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "CE",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "DF",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "ES",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "GO",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "MA",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "MG",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "MS",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "MT",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "PA",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "PB",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "PE",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "PI",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "PR",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "RJ",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "RN",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "RO",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "RR",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "RS",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "SC",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "SE",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "SP",
+    "ICMS": 12
+  },
+  {
+    "origem": "TO",
+    "destino": "TO",
+    "ICMS": 18
+  }
+]

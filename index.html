@@ -51,67 +51,66 @@
     let dadosJSON = null;
 
     document.getElementById('btnConverter').addEventListener('click', () => {
-      const inputExcel = document.getElementById('inputExcel');
-      const resultado = document.getElementById('resultado');
-      const btnDownload = document.getElementById('btnDownload');
+    const inputExcel = document.getElementById('inputExcel');
+    const resultado = document.getElementById('resultado');
+    const btnDownload = document.getElementById('btnDownload');
 
-      if (!inputExcel.files || inputExcel.files.length === 0) {
-        alert('Por favor, selecione um arquivo Excel!');
-        return;
-      }
+    if (!inputExcel.files || inputExcel.files.length === 0) {
+      alert('Por favor, selecione um arquivo Excel!');
+      return;
+    }
 
-      const extensaoValida = /\.(xlsx|xls)$/i;
-        if (!extensaoValida.test(arquivo.name)) {
-          alert("Por favor, selecione um arquivo Excel válido (.xlsx ou .xls).");
-          return;
-      }
+    const arquivo = inputExcel.files[0];
 
-      const arquivo = inputExcel.files[0];
-      const leitor = new FileReader();
+    const extensaoValida = /\.(xlsx|xls)$/i;
+    if (!extensaoValida.test(arquivo.name)) {
+      alert("Por favor, selecione um arquivo Excel válido (.xlsx ou .xls).");
+      return;
+    }
 
-      leitor.onload = (e) => {
-        try {
-          const dados = e.target.result;
-          const workbook = XLSX.read(dados, { type: 'binary' });
-          const sheetName = workbook.SheetNames[0];
-          const sheet = workbook.Sheets[sheetName];
+    const leitor = new FileReader();
 
+    leitor.onload = (e) => {
+      try {
+        const dados = e.target.result;
+        const workbook = XLSX.read(dados, { type: 'binary' });
+        const sheetName = workbook.SheetNames[0];
+        const sheet = workbook.Sheets[sheetName];
 
-          const rawData = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+        const rawData = XLSX.utils.sheet_to_json(sheet, { header: 1 });
 
-    
-          const destinos = rawData[1].slice(1); 
-          const jsonResult = [];
+        const destinos = rawData[1].slice(1); 
+        const jsonResult = [];
 
-          for (let i = 2; i < rawData.length; i++) {
-            const row = rawData[i];
-            const origem = row[0];
+        for (let i = 2; i < rawData.length; i++) {
+          const row = rawData[i];
+          const origem = row[0];
 
-            for (let j = 1; j < row.length; j++) {
-              const destino = destinos[j - 1];
-              const ICMS = row[j];
+          for (let j = 1; j < row.length; j++) {
+            const destino = destinos[j - 1];
+            const aliquota = row[j];
 
-              if (origem && destino && ICMS !== undefined) {
-                jsonResult.push({ origem, destino, ICMS });
-              }
+            if (origem && destino && aliquota !== undefined) {
+              jsonResult.push({ origem, destino, aliquota });
             }
           }
-
-          dadosJSON = jsonResult;
-          resultado.textContent = JSON.stringify(dadosJSON, null, 2);
-          btnDownload.disabled = false;
-        } catch (erro) {
-          resultado.textContent = 'Erro ao processar o arquivo: ' + erro.message;
         }
-      };
 
-      leitor.onerror = (erro) => {
-        resultado.textContent = 'Erro ao ler o arquivo: ' + erro.message;
-      };
+        dadosJSON = jsonResult;
+        resultado.textContent = JSON.stringify(dadosJSON, null, 2);
+        btnDownload.disabled = false;
+      } catch (erro) {
+        resultado.textContent = 'Erro ao processar o arquivo: ' + erro.message;
+      }
+    };
 
-      leitor.readAsBinaryString(arquivo);
-    });
+    leitor.onerror = (erro) => {
+      resultado.textContent = 'Erro ao ler o arquivo: ' + erro.message;
+    };
 
+    leitor.readAsBinaryString(arquivo);
+  });
+  
     document.getElementById('btnDownload').addEventListener('click', () => {
       if (!dadosJSON) return;
 

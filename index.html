@@ -60,6 +60,12 @@
         return;
       }
 
+      const extensaoValida = /\.(xlsx|xls)$/i;
+        if (!extensaoValida.test(arquivo.name)) {
+          alert("Por favor, selecione um arquivo Excel válido (.xlsx ou .xls).");
+          return;
+      }
+
       const arquivo = inputExcel.files[0];
       const leitor = new FileReader();
 

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Excel para JSON</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .container {
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 5px;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    pre {
+      background-color: #f8f8f8;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+      max-height: 300px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Conversor de Excel ICMS para JSON</h2>
+    <p>Selecione um arquivo Excel (.xlsx ou .xls):</p>
+    <input type="file" id="inputExcel" accept=".xlsx, .xls">
+    <button id="btnConverter">Converter para JSON</button>
+    <button id="btnDownload" disabled>Baixar JSON</button>
+
+    <h3>Resultado:</h3>
+    <pre id="resultado">Os dados JSON aparecerão aqui...</pre>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script>
+    let dadosJSON = null;
+
+    document.getElementById('btnConverter').addEventListener('click', () => {
+      const inputExcel = document.getElementById('inputExcel');
+      const resultado = document.getElementById('resultado');
+      const btnDownload = document.getElementById('btnDownload');
+
+      if (!inputExcel.files || inputExcel.files.length === 0) {
+        alert('Por favor, selecione um arquivo Excel!');
+        return;
+      }
+
+      const arquivo = inputExcel.files[0];
+      const leitor = new FileReader();
+
+      leitor.onload = (e) => {
+        try {
+          const dados = e.target.result;
+          const workbook = XLSX.read(dados, { type: 'binary' });
+          const sheetName = workbook.SheetNames[0];
+          const sheet = workbook.Sheets[sheetName];
+
+
+          const rawData = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+
+    
+          const destinos = rawData[1].slice(1); 
+          const jsonResult = [];
+
+          for (let i = 2; i < rawData.length; i++) {
+            const row = rawData[i];
+            const origem = row[0];
+
+            for (let j = 1; j < row.length; j++) {
+              const destino = destinos[j - 1];
+              const ICMS = row[j];
+
+              if (origem && destino && ICMS !== undefined) {
+                jsonResult.push({ origem, destino, ICMS });
+              }
+            }
+          }
+
+          dadosJSON = jsonResult;
+          resultado.textContent = JSON.stringify(dadosJSON, null, 2);
+          btnDownload.disabled = false;
+        } catch (erro) {
+          resultado.textContent = 'Erro ao processar o arquivo: ' + erro.message;
+        }
+      };
+
+      leitor.onerror = (erro) => {
+        resultado.textContent = 'Erro ao ler o arquivo: ' + erro.message;
+      };
+
+      leitor.readAsBinaryString(arquivo);
+    });
+
+    document.getElementById('btnDownload').addEventListener('click', () => {
+      if (!dadosJSON) return;
+
+      const jsonString = JSON.stringify(dadosJSON, null, 2);
+      const blob = new Blob([jsonString], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'aliquotas_icms.json';
+      a.click();
+    });
+  </script>
+</body>
+</html>
